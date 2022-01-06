@@ -105,9 +105,8 @@ border-radius: 10px;
 }
 .size-photo img{
     width: 70%;
-   
-    position: relative;
 }
+
 
 .fourth-section{
     display: flex;
